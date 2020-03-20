@@ -12,4 +12,4 @@ Covering the Basics
 - [] Github Desktop
 
 ### New Paragraph
-A new Paragraph in a branch
+- [] A new Paragraph in a branch
