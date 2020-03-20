@@ -7,7 +7,9 @@ Covering the Basics
 - [x] Git commit
 - [] Git Branch
 - [] Git Push
-- [] Git log
+- [x] Git log
 - [] Github
 - [] Github Desktop
 
+### New Paragraph
+A new Paragraph in a branch
